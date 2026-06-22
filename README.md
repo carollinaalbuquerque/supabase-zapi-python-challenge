@@ -1,4 +1,4 @@
-b2bflow Challenge
+B2BFLOW Challenge
 
 Aplicação em Python que busca contatos armazenados no Supabase e envia mensagens personalizadas via Z-API.
 
